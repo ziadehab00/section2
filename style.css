@@ -1,0 +1,35 @@
+.header{
+height: 700px;    
+background-image: url("m.PNG") ;
+background-size: cover;
+background-repeat: no-repeat;
+background-position:top center;
+}
+h1{
+    color: #fff;
+    text-align: center;
+    padding-top: 200px;
+}
+p{
+    color: #fff;
+    text-align: center;
+}
+.center{
+    padding-left: 670px;
+}
+.button1{
+     padding: 10px 30px;
+     background-color:  #eaa023;
+     border-radius: 50px;
+     font-weight: bold;
+     color: #fff;
+    
+}
+.button2{
+    padding: 10px 30px;
+    border-radius: 50px;
+    font-weight: bold;
+    color:#eaa023;
+    border-color: #eaa023; 
+   
+}
